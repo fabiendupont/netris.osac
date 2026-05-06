@@ -1,0 +1,8 @@
+namespace: netris
+name: osac
+version: 0.1.0
+readme: README.md
+authors: [Netris]
+description: Netris networking integration for OSAC
+license_file: LICENSE
+tags: [osac, cloud, networking, netris]

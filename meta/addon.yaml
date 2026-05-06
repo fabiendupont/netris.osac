@@ -1,0 +1,11 @@
+name: netris-osac
+display_name: Netris Networking
+description: Netris networking, NAT, and L4LB integration for OSAC
+version: 0.1.0
+dependencies:
+  osac_core: ">=0.1.0"
+resource_types:
+  - name: VirtualNetwork
+    scope: tenant
+  - name: Cluster
+    scope: tenant
